@@ -1,5 +1,5 @@
 step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
 paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
-1,gold-sheet-metal,0.5,0.5,1,,what is this,object,,Learn more,gold-sheet-panel.md,,,,,
-2,gold-sheet-metal,0.4883671294004952,0.3765866639969578,4.537953795379539,,face,,,,,,,,,
-3,gold-sheet-metal,0.5263584974463056,0.789652235463695,6.534653465346536,,fangs,idk,,,,,,,,
+2,gold-sheet-metal,0.5,0.5,1,,what is this,object,,Learn more,gold-sheet-panel.md,,,,,
+3,gold-sheet-metal,0.4883671294004952,0.3765866639969578,4.537953795379539,,face,,,,,,,,,
+4,gold-sheet-metal,0.5263584974463056,0.789652235463695,6.534653465346536,,fangs,idk,,,,,,,,
