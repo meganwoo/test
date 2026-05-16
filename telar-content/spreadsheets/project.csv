@@ -1,4 +1,3 @@
 order,story_id,title,subtitle,byline,private,show_sections
 orden,id_historia,titulo,subtitulo,firma,privada,mostrar_secciones
-0,gold-sheet,gold sheet,,,,
-3,moche-stirrup-vessel-ktbt,Moche Stirrup Vessel,,,,
+0,moche-stirrup-vessel-ktbt,Moche Stirrup Vessel,placeholder subtitle,"Sebastian Fojut, Tanner Kinsey, Megan Woo",,
