@@ -5,7 +5,7 @@
 title: "Moche Stirrup Vessel"
 description: "short description of site"
 url: "https://meganwoo.github.io"
-baseurl: "/project"
+baseurl: "/test"
 author: "Tanner Kinsey, Sebastian Fojut, Megan Woo"
 email: ""
 telar_theme: "trama" # Options: trama, paisajes, neogranadina, santa-barbara, austin, or custom
