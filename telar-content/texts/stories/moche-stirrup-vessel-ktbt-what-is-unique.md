@@ -1,0 +1,5 @@
+---
+title: "What is unique about this Moche stirrup spout vessel? "
+---
+
+ Stirrup pots are unlike many other Moche vessels. Many water vessels in the Moche culture were made to be stagnant, unmoving from their intentional storage space. The unique part of the Stirrup vessel is the stirrup spout itself, which resembles and functions as a handle. This part of the stirrup vessel potentially made it easier for carrying, unlike other objects seen in any other culture's art. However, archaeologists have yet to determine exactly what was contained in this vessel type. The spout itself is not exactly practical for pouring liquids. The connecting tubes are not optimal for function as a normal ceramic pot. This has led archaeologists to speculate, noting that the vessel likely has a symbolic significance.

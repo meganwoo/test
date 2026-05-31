@@ -1,0 +1,7 @@
+---
+title: "What exactly did the Moche people do with this vessel?"
+---
+
+While these are potentially also used in everyday practices, the intricate nature of the stirrup design requires ideal conditions to remain intact. Burial sites often provide an excellent setting for protection of the original structure, mitigating the extent of restoration required. It is thought that these vessels were largely used for funerary and status purposes, but these environments may skew the prevalence of these vessels to appear to be exclusively owned by the highest social classes. However, the techniques required to produce a vessel as intricate as this artifact suggest that this good was reserved for upper class individuals. 
+
+Additionally, these moche vessels would often resemble faces. Some have been identified as portraits of an individual across multiple stages of life. This has led some research to suggest that, while the shape is often mass-produced using molds, each vessel is unique and reserved for high-society individuals, specifically in ritualistic and funeral capacities. The vessels were likely filled with maize beer and left in tombs with religious and political leaders to accompany them into the afterlife.

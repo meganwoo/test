@@ -1,0 +1,7 @@
+---
+title: "What was the significance of the stirrup?"
+---
+
+Determining the significance of the Stirrup vessel is somewhat difficult, as there are some aspects of its context we can only speculate. For example, the contents within the vessel can only be inferred from what we already know about the culture. The way the water flows through the spout and through the body are potentially symbolic of the way fluids flow through humans/living things. Many Moche mediums depict sexual themes and themes reflective of physiological human features. The unique design of the Stirrup spout may be representative of human physical features, the way the water flows puts the design in line with the Moche themes. 
+
+Archaeologists have guessed that the vessels likely carried water but may also have carried Chicha, but this has not been confirmed. Its form does not tell us much either. There are many stirrup vessels with varying levels of complexity. These span from multiple figure scenes, complex animal effigies, or more simplistic designs like our vessel. Though our vessel is simplistic, it takes after a more natural gourd-like design. Besides ceramic vessels, the Moche used dried out gourds as storage for food and water, with characteristics our vessel takes after. Because of these facts and comparisons to other stirrup vessels, the stirrup vessel was likely just a medium for the Moche to express their culture.
